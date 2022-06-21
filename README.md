@@ -1,6 +1,6 @@
-# sample_test
+# MVVM Architecture 
 
-A new Flutter project.
+A flutter project structure using MVVM pattern.
 
 ## Getting Started
 
